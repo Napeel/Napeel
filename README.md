@@ -20,6 +20,10 @@ I'm a passionate Software Engineering student at McGill University, set to gradu
   </a>
 </p>
 
+## ⏱️ Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nabilmus/">
