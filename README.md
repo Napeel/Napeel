@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nabil.
 
 ## 🚀 About Me
-Welcome to my Profile! I'm a passionate Software Engineer studying at McGill University, in the Software Eng Co-op program. I love tech and making cool stuff drop a follow 👆.
+Welcome to my Profile! I'm a passionate Software Engineer studying at McGill University, in the Software Eng Co-op program. I love tech and making cool stuff drop a follow 👈.
 
 ## 💻 Technologies & Tools
 <p align="center">
