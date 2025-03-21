@@ -20,16 +20,6 @@ I'm a passionate Software Engineering student at McGill University, set to gradu
   </a>
 </p>
 
-## 🔭 Current Experience
-- **Software Engineer Intern** at Empor (Feb 2025 - Present)
-- **Software Developer** at McGill Rocket Team (Sep 2024 - Present)
-- **Personal Project**: Emotiflix - Movie recommendation platform (Aug 2024 - Present)
-
-## 🏆 Projects
-- **Vitals.me** - Winner of Telus Sponsor Challenge at McHacks2025
-- **Emotiflix** - Full-stack movie recommendation platform with FastAPI and PostgreSQL
-- **CoolSupplies Application** - School supplies management application with Java and JavaFX
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nabilmus/">
