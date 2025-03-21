@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Muhammad Nabil Bin Muzafar Shah
+# 👋 Hi there, I'm Nabil.
 
 ## 🚀 About Me
-I'm a passionate Software Engineering student at McGill University, set to graduate in 2027. With a strong foundation in various programming languages and developer tools, I'm dedicated to creating innovative solutions and continuously expanding my skills in software development. My experience spans from academic projects to internships, where I've worked on diverse applications using modern technologies.
+Welcome to my Profile! I'm a passionate Software Engineer studying at McGill University, in the Software Eng Co-op program. I love tech and making cool stuff drop a follow 👆.
 
 ## 💻 Technologies & Tools
 <p align="center">
