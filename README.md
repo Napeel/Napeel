@@ -21,6 +21,7 @@ Welcome to my Profile! I'm a passionate Software Engineer studying at McGill Uni
 </p>
 
 ## ⏱️ Weekly Coding Stats
+🥸
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
