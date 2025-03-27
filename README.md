@@ -21,8 +21,10 @@ Welcome to my Profile! I'm a passionate Software Engineer studying at McGill Uni
 </p>
 
 ## 💪 My Stats
-[![Napeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Napeel&show_icons=true&themecom/anuraghazra/github-readme-statsthub-readme-stats.vercel.app/api/top-langs/?username=Napeel&layout=compact&tthub.com/anuraghazra/github 
 
+[![Napeel's GitHub stats](https://github-readme-stats-git-master-nabilxgamer-gmailcoms-projects.vercel.app/api?username=Napeel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-master-nabilxgamer-gmailcoms-projects.vercel.app/api/top-langs/?username=Napeel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connect with Me
 <p align="center">
