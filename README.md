@@ -20,10 +20,10 @@ Welcome to my Profile! I'm a passionate Software Engineer studying at McGill Uni
   </a>
 </p>
 
-## ⏱️ Weekly Coding Stats
+## 💪 My Stats
 🥸
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Napeel's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Napeel](https://github-readme-stats-git-master-nabilxgamer-gmailcoms-projects.vercel.app))](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🤝 Connect with Me
 <p align="center">
