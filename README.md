@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Welcome to my Profile! I'm a passionate Software Engineer studying at McGill University, in the Software Eng Co-op program. I love tech and making cool stuff drop a follow 👈.
 <br>
-Check out my other account too! - https://github.com/nabilbotpress
+Check out my other GitHub account too! - [@nabilbotpress](https://github.com/nabilbotpress)
 
 ## 💻 Technologies & Tools
 <p align="center">
