@@ -28,9 +28,6 @@ Check out my other GitHub account too! - [@nabilbotpress](https://github.com/nab
   <a href="https://www.linkedin.com/in/nabilmus/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nabil.software">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
-  </a>
 </p>
 
 ⭐️ From [Napeel](https://github.com/Napeel)
