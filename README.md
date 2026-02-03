@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nabil.
 
 ## 🚀 About Me
-Welcome to my Profile! I'm a passionate Software Engineer studying at McGill University, in the Software Eng Co-op program. I love tech and making cool stuff drop a follow 👈.
+I like to make cool stuff.
 <br>
 Check out my other GitHub account too! - [@nabilbotpress](https://github.com/nabilbotpress)
 
@@ -22,11 +22,6 @@ Check out my other GitHub account too! - [@nabilbotpress](https://github.com/nab
   </a>
 </p>
 
-## 💪 My Stats
-
-[![Napeel's GitHub stats](https://github-readme-stats-git-master-nabilxgamer-gmailcoms-projects.vercel.app/api?username=Napeel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-master-nabilxgamer-gmailcoms-projects.vercel.app/api/top-langs/?username=Napeel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connect with Me
 <p align="center">
