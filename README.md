@@ -1,6 +1,6 @@
 I like to make cool stuff 😸.
 
-I currently work with: TypeScript, Rust, Python, Java, React, Node.js
+I currently work with: TypeScript, Go, Python, Java, React, Node.js
 
 Currently [@Botpress](https://github.com/botpress)
 
