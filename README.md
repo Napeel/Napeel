@@ -1,4 +1,4 @@
-I like to make cool stuff 😸.
+I like to make stuff 😸.
 
 I currently work with: TypeScript, Go, Python, Java, React, Node.js
 
